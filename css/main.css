@@ -127,6 +127,49 @@ ul, ol {
     list-style: square;
     color: #fff;
 }
+
+#content {
+    float: left;
+    width: 63%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 0 20px 20px 20px;
+}
+
+article img {
+    width: 100%;
+}
+
+article {
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0 20px 0;
+}
+
+article .meta{
+    margin: 10px 0;
+    padding: 10px;
+    color: #fff;
+    background: #333;
+}
+
+.readmore {
+    padding: 10px;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 97%;
+    display: block;
+    text-align: center;
+}
+
+.readmore:hover{
+    background: #ccc;
+}
+
+#sidebar {
+    float: right;
+    width: 30%;
+}
 /* ==========================================================================
    Media Queries
    ========================================================================== */
