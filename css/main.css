@@ -189,6 +189,25 @@ article .meta{
     float: right;
 }
 
+#sub-nav {
+    padding: 15px 0;
+}
+
+#sub-nav li {
+    padding: 5px 0;
+    border-bottom: 1px solid #333;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#sub-nav a {
+color: #333;
+}
+
+#sub-nav a:hover, #sub-nav a:active {
+    color: #ff0000;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
