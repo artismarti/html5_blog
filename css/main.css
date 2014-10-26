@@ -170,6 +170,25 @@ article .meta{
     float: right;
     width: 30%;
 }
+
+.search{
+    float: right;
+}
+
+.search input[type="search"] {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 3px;
+    width: 85%;
+    height: 20px;
+    float: left;
+}
+
+.search input[type=image] {
+    width: 10%;
+    float: right;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
