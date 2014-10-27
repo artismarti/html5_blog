@@ -152,6 +152,10 @@ article .meta{
     background: #333;
 }
 
+article .meta span {
+    float: right;
+}
+
 .readmore {
     padding: 10px;
     background: #f4f4f4;
