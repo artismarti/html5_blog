@@ -208,7 +208,7 @@ article .meta span {
 color: #333;
 }
 
-#sub-nav a:hover, #sub-nav a:active {
+#sub-nav a:hover, #sub-nav a:active, #sub-nav a:focus {
     color: #ff0000;
 }
 
