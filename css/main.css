@@ -301,6 +301,39 @@ article .meta span {
     padding: 3px;
 }
 
+.add-form {
+    padding: 20px 10px;
+}
+
+.add-form input[type="text"], .add-form select {
+    border: 1px #333 solid;
+    border-radius: 5px;
+    height: 20px;
+    width: 97%;
+    padding: 3px;
+}
+
+.add-form select {
+    height: 30px;
+    width: 98%;
+}
+
+.add-form textarea {
+    border: 1px #333 solid;
+    border-radius: 5px;
+    width: 97%;
+    height: 100px;
+    padding: 3px;
+}
+
+.add-form button {
+    border: 1px #333 solid;
+    border-radius: 5px;
+    height: 30px;
+    width: 20%;
+    padding: 3px;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
