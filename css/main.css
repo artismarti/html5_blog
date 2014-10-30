@@ -338,7 +338,29 @@ article .meta span {
    Media Queries
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (max-width: 840px) {
+    #branding h1 {
+        display: none;
+    }
+
+    #branding {
+        width: 20%;
+    }
+
+    #main-nav {
+        width: 80%;
+    }
+
+    #sidebar {
+        float: none;
+        width: 100%;
+    }
+
+    #content {
+        margin-top: 20px;
+        float: none;
+        width: 91%;
+    }
 
 }
 
