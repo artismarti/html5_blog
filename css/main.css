@@ -362,6 +362,42 @@ article .meta span {
         width: 91%;
     }
 
+    .footer-left, .footer-right {
+        float: none;
+        width: 100%;
+    }
+
+    #main-footer .footer-nav {
+        float: none;
+        width: 100%;
+    }
+
+    #main-footer .copy {
+        text-align: center;
+    }
+
+    .add-form button {
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+
+    #main-nav ul li {
+        padding: 3px 3px 0 3px;
+        margin: 0 5px;
+        font-size: 12px;
+        list-style: none;
+    }
+
+    #content {
+        width: 86%;
+    }
+
+    .add-form button {
+        width: 40%;
+    }
+
 }
 
 @media print,
