@@ -1,4 +1,4 @@
-html5_blog
+HTML5 BLOG
 ==========
 ### What is this?
 This is me practising CSS, JS & HTML5 by doing the projects in this Udemy course: https://www.udemy.com/projects-in-html5/
